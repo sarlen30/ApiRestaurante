@@ -1,0 +1,7 @@
+App\Entity\Alergenos:
+  attributes:
+    id:
+      groups: ['restaurante']
+    alergeno:
+      groups: ['restaurante']
+
